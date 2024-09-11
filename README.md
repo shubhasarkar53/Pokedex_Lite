@@ -1,6 +1,8 @@
 
 # Pokédex Lite
 
+
+- Live Link -> https://pokedex-liteco.vercel.app/
 - Find All the types of pokemons -> `https://pokeapi.co/api/v2/type`
 
 - Fetch All the pokemons under the type - > `https://pokeapi.co/api/v2/type/{id or name}/`
